@@ -36,7 +36,7 @@ export default function About() {
                 learn and grow. If you have a good opportunity that matches my
                 skills and experience then don&apos;t hesitate to <b>contact</b> me.
               </p>
-              <Link href="#contacts"><button className={styles.btn}>Contact Me</button></Link>
+              <Link href="#contact"><button className={styles.btn}>Contact Me</button></Link>
             </div>
           </Grid>
           <Grid item xs={12} md={6}>
