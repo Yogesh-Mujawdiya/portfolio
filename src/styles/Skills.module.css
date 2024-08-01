@@ -1,0 +1,19 @@
+.skills_section {
+  margin: 0px;
+  text-align: left;
+  position: relative;
+}
+
+.skills_section h1{
+  font-size: 30px;
+  font-family: inherit;
+  font-weight: 700;
+  margin: 10px;
+}
+
+.skills_section div{
+  display: inline-block;
+  background: rgba(153, 153, 153, 0.2);
+  font-weight: 600;
+  color: #666;
+}

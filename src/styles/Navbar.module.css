@@ -1,0 +1,35 @@
+.navbar {
+  padding: 12px 0px;
+  background-color: #ffffff;
+}
+
+.navbar .link {
+  text-decoration: none;
+  font-size: 18px;
+  margin: 0 1.5rem;
+  font-weight: 800;
+  color: #222222;
+}
+
+.navbar .link:hover {
+  color: #7843e9;
+}
+.navbar .nav_bar_title {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 800;
+  flex-grow: 1;
+  padding: 0 15px;
+  color: #222222;
+}
+
+.navbar .nav_bar_title:hover {
+  color: #7843e9;
+  cursor: pointer;
+}
+
+.navbar img {
+  border-radius: 100px;
+  cursor: pointer;
+  margin: 0px 20px;
+}

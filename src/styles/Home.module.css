@@ -1,0 +1,37 @@
+.home_container {
+  margin: 0px;
+  text-align: center;
+  position: relative;
+}
+
+.home_container h1 {
+  font-size: 40px;
+  font-family: inherit;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.home_container .subtitle {
+  font-family: inherit;
+  max-width: 900px;
+  margin: 20px auto;
+  color: #333;
+  font-size: 1.7rem;
+  text-align: center;
+  width: 100%;
+  line-height: 1.6;
+}
+
+.home_container button {
+  padding: 15px 80px;
+  font-size: 18px;
+  background-color: #7843e9;
+  color: #ffffff;
+  border: none;
+  font-weight: bolder;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin: 20px auto 30vh;
+
+  cursor: pointer;
+}
