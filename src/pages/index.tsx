@@ -10,7 +10,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import { CssBaseline, StyledEngineProvider } from "@mui/material";
 import Script from "next/script";
 
-const GA_TRACKING_ID =process.env.GA_TRACKING_ID;
+const GA_TRACKING_ID ="G-1HL7XWGV9R";
 export default function App() {
   return (
     <React.StrictMode>
@@ -25,7 +25,7 @@ export default function App() {
       </Script>
       <script
         async
-        src="https://www.googletagmanager.com/gtag/js?id=G-V6E83F19L8"
+        src="https://www.googletagmanager.com/gtag/js?id=G-1HL7XWGV9R"
       ></script>
       <StyledEngineProvider injectFirst>
         <CssBaseline />
