@@ -10,7 +10,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import { CssBaseline, StyledEngineProvider } from "@mui/material";
 import Script from "next/script";
 
-const GA_TRACKING_ID = "G-V6E83F19L8";
+const GA_TRACKING_ID =process.env.GA_TRACKING_ID;
 export default function App() {
   return (
     <React.StrictMode>
